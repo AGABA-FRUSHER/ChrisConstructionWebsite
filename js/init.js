@@ -1,6 +1,6 @@
 /*
- * Copyright (c) 2018 Kimaswa Emmanuel
- * Author: Kimaswa Emmanuel
+ * Copyright (c) 2018 Agaba Francis
+ * Author: Agaba Francis
  * This file is made for CURRENT TEMPLATE
  */
 
